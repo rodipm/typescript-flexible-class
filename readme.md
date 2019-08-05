@@ -6,7 +6,7 @@
 ## Snippet
 ```typescript
 export interface FlexibleClassData {
-    // Insert here custmo params
+    // Insert here custom parameters
     // param?: type,
 }
 export class FlexibleClass {
